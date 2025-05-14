@@ -74,7 +74,7 @@
       "required": true 
     },
     "OWNER_NUMBER": {
-      "description": "Enter your number eg, 2547xxxxxxx",
+      "description": "2347039100348",
       "value": "",
       "required": true 
     },
@@ -95,11 +95,11 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "BJ EXCHANGE",
       "required": false
     },
     "SESSION_ID": {
-      "description": "Your session ID",
+      "description": "BWM-XMD;;;H4sIAAAAAAAAA61V246qSBT9lUm96hm5CWjSyXDzhiAqgvZkHkqqwFJuQoHgif8+oe1On2RmzvQkw1Olilp77b3XXvUdpBkpsYlbMP4O8oLUkOJuSdscgzFQqzDEBegDBCkEY3CzaVDEl8vlcETLVPB5Ya1OnIl+kKfNbJpldhLPzVcZzjnrBTz6IK+OMQl+AjjfL8U7JL1QK0c71lIdB50X23jtcua9sV+X+RIH/iC0BJ95AY8OEZKCpJGRn3CCCxibuHUgKb5G35hN7hfd0blKOa4kKiwyKm8NUzJXk8bthbMpWS/jgXsq4+hr9A/5soLBWd0nrZex03ZU6JZ5SWaVH52jE1f7kX6Vg2w3Z7In/ZJEKUZzhFNKaPvluuPFrOKLSZ2hIzOkbS8sDaJUCE0uqZ2Wrri3p72hvVNjPvga8SJ/5R1yxBs28PZXryes6qORIDrcyonSZGxt6ovtbXggsfEjcaf40Mrlv9T9snSLszfjjMS7N/f4ZLShIeeizTB395iKziZv+fZu4IKdf43+lvNhT4vDyNWY1zB+vUQ1SiXVzJbBwhr1zqPKd9xAj8jE+qQPaVX8jOVpyAwMJBTh3oUG41j87K6xxyzd+jNRj0uNe7XTRJPbJu1lot3WI6qvbnM4ItKW8dBA83fOoo0GiEe6tNLPw4tfHsnt5S2jC27nCIzZRx8UOCIlLSAlWdrtDbk+gKje4qDA9K264Fgad0lluWaos8pZMPz6ejKspT90o4Kf7K7upplVvO/V8PYC+iAvsgCXJUYzUtKsaC1cljDCJRj//taoLucCJxnFC4LAGHC8IDH8iGUYXpB/K3+9nSAtYZ7/mmIK+iAsssTCYEyLCvfB2w1REJXJRFJlVWc1Q+GVkSbovD7iDElRFIbpUkyeUV2S4JLCJAdjVhIkjuUYlnv0/ycigjhhZF4cqjzPqUNekQxWGo5UXhZHkjQZqj8nIjCPP/ogxQ19CrkrP8/1QUiKku7SKo8ziD5U/nEIgyCrUrpt00DrFrgAY/ZzG1NK0qjsUqtSWAQnUmOtywOMQxiX+NEHCNckwB0eQFKkHVext/FxVcfLJBltNmnU9fCUpc9fRB4xgsjK33gYht8EnpO/ydKR+cYhiZFDbnQMeQ505Xh6SHfnHyVdR/Xg3GqNGA4O9OpYTLiLFNHcH8unPz+1iAuMPqp8hMGlyt3sgtOf4ApkYbFS5quv9YZvhWZu3lcjRch4QfkB96lxMP7+6dtahjo8wd1Yji3tQdetLs5f5TBm/yqIFCZvbBa/GHttpthTowv23okOBmEKSVyCMdBsrb5ahmrYW3oJjOlUmUeKFings3MflvCcuclyldmFv+O4ROHdGayCZC7nrZQRO7iuVd9Ss96d2RwYN3r5GxAwBq/Vrb7TdFuvtKlp7KUTcfZtYyjMWuFzj050LTykBpGXRp5R1PAOq8830+oUoTCf5KWLiHm/il4+HbQX1eTzmG5ENXrpoj0V9GOwjFNVZ3q3heH5UKzxwBzoSXvIvZvHq4uS8YRpY+0X09zMGyEZbm6150ln+UoGKtocctsKDbrb+dv1bB6t5ZN4QM11fXo3qzezjN8fKfLuI0+9hQS/ef57J/61Y5/SZx79HzDeX5F/kJe62d6vOmRjm+aRzTRckS6IYwaVOD/vzYvinRXolCPDtw0BPLqZzmNIw6xIwBjAFBUZQaAPYlhS5XN6/8YQGLYPklbJ8y2F9GPogdJ9S8MDjz8B3abMQiAJAAA=",
       "value": "",
       "required": true
     },    
